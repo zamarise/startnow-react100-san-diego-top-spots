@@ -1,5 +1,5 @@
 # React San Diego Top Spots
-> A small informational website containing a list of 30 "top places to see" in San Diego, aka "Top Spots".
+> A small informational website containing a list of 30 "top places to see" in San Diego.
 
 This was my eleventh project at Origin Code Academy. This app was made using React.
 
