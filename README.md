@@ -1,8 +1,10 @@
 # React San Diego Top Spots
+
 > A small informational website containing a list of 30 "top places to see" in San Diego.
 
 This was my eleventh project at Origin Code Academy. This app was made using React.
 
+![](san-diego-top-spots-react.png)
 
 ## Background
 
@@ -21,9 +23,11 @@ Download all associated files and load them up in your favorite text editor!
 ```
 npm install
 ```
+
 ```
 npm run build
 ```
+
 ```
 npm start
 ```
